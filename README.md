@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kamblechikayya
-- 👀 I’m interested in ... full Stac java
-- 🌱 I’m currently learning ... java, html, css, java script, My sql, spring boot etc.
+- 👀 I’m interested in ... Embedded Sofware Engineer
+- 🌱 I’m currently learning ... C, Embedded C, Communication Protocol,ESP32, Arduino ATMega32 etc.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...9022494578 || chikayyakamble23@gmail.com
+- 😄 Pronouns: ...He
 - ⚡ Fun fact: ...
 
 <!---
