@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...9022494578 || chikayyakamble23@gmail.com
 - 😄 Pronouns: ...He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Playing Chess
 
 <!---
 kamblechikayya/kamblechikayya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
